@@ -1,0 +1,5 @@
+suites:
+  knp_menu_suite:
+    namespace: Indigo\KnpMenu
+    psr4_prefix: Indigo\KnpMenu
+formatter.name: pretty
